@@ -4,11 +4,11 @@
 
 <img align="right" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47rsum9ji5x5maewuste13oxfndzakdsdu3sxcr9zp&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="ashrafulislam121" />
 
-- 🔭 I’m currently working on **Multidisciplinary Research Laboratory (HSTU)**
+- 🔭 I’m currently working on **Multidisciplinary Research Laboratory**
 
 - 🌱 I’m currently learning **NLP**
 
-- 💬 Ask me about **Data Science, Machine Learning & Deep Learning.**
+- 💬 Ask me about **Data Science, DL & DL**
 
 - 📫 How to reach me **ashraful.eee.hstu@gmail.com**
 
