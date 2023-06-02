@@ -1,6 +1,6 @@
 [![MasterHead](https://www.interactions.com/wp-content/uploads/2018/10/pure_vs_pragmatic_ai_2000x500.jpg)](https://www.linkedin.com/in/ashrafulislam121/)
 <h1 align="center">Hi 👋, I'm Ashraful Islam</h1>
-<h3 align="center">A passionate ML & DL from BD</h3>
+<h3 align="center">A passionate Machine Learning & Deep Learning from BD</h3>
 
 <img align="right" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47rsum9ji5x5maewuste13oxfndzakdsdu3sxcr9zp&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="ashrafulislam121" />
 
